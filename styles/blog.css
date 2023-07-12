@@ -1,0 +1,9 @@
+.blog{
+    background-color: rgba(22, 67, 67, 0.687);
+    width: 50%;
+    margin: 2%;
+    border: 10px solid rgb(64, 53, 33);
+    border-radius: 10px;
+    padding: 10px;
+
+}
